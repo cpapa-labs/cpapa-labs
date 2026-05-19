@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Revising and updating user profiles
 - 🌱 I’m currently learning: Active Directory, GitHub, markdown
-- 📫 How to reach me: LinkedIn or e-mail
+- 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: Enjoy snowboarding
 
 <!---
